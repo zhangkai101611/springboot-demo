@@ -8,6 +8,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello k8s update aa1a";
+        return "hello k8s update aa1a1";
     }
 }
